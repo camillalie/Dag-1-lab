@@ -7,5 +7,6 @@ return 1;
 }
 return 0;
 }
+hei camilla husk å logge av pcen på sanntid hilsen hemmelig beundrer
 
 
